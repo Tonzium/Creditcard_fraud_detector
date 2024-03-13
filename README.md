@@ -13,7 +13,7 @@ employing a combination of data preprocessing, oversampling techniques, and a ca
 - Visualization: Learning curves and confusion matrix for model performance analysis.
 
 ## Results
-The model has demonstrated exceptional performance on the credit card fraud detection task, accurately identifying all 492 instances of fraud in the dataset.
+The model has achieved remarkable accuracy in identifying fraudulent transactions within the credit card dataset. It correctly classified all 492 cases of fraud and successfully recognized 284,269 transactions as legitimate. However, it misclassified 46 legitimate transactions as fraudulent.
 
 ![Confusion Matrix](Credit_card_fraud_1710357529.png)
 ![Classification Report](Classification_Report_1710357529.png)
