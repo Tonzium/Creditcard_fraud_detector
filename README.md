@@ -18,4 +18,4 @@ The model has achieved remarkable accuracy in identifying fraudulent transaction
 ![Confusion Matrix](Credit_card_fraud_1710357529.png)
 ![Classification Report](Classification_Report_1710357529.png)
 
-Dataset from Kaggle's Credit Card Fraud Detection challenge.
+Dataset from Kaggle's [Credit Card Fraud Detection challenge](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
