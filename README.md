@@ -15,6 +15,6 @@ employing a combination of data preprocessing, oversampling techniques, and a ca
 ## Results
 The model has demonstrated exceptional performance on the credit card fraud detection task, accurately identifying all 492 instances of fraud in the dataset.
 
-[!Classification_report](Classification Report 1710357529.png)
+![Example Image](Classification Report 1710357529.png.png)
 
 Dataset from Kaggle's Credit Card Fraud Detection challenge.
